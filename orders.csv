@@ -1,0 +1,17 @@
+order_id,product,quantity,status,eta,Estimated Delivery Time,Mode of Payment,payment,customer,date
+12345,rice,2,Delivered,Delivered Today,,,Cash/UPI on Delivery,,2025-09-13
+98765,sugar,5,Delivered,2 days ago,,,Cash/UPI on Delivery,,2025-09-13
+98766,sugar,10,Delivered,Delivered Today,,,Cash/UPI on Delivery,,2025-09-13
+98767,sugar,10,Delivered,Delivered Today,,,Cash/UPI on Delivery,,2025-09-13
+98768,rice,2,Delivered,Delivered Today,,,Cash/UPI on Delivery,,2025-09-13
+98769,oil,5,Delivered,Delivered Today,,,Cash/UPI on Delivery,,2025-09-13
+98770,milk,4,Delivered,Delivered Today,2 days,Please Pay Online or by Cash at the time of delivery,Cash/UPI on Delivery,,2025-09-13
+98771,milk,4,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812.0,2025-09-13
+98772,rice,4,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
+98773,sugar,4,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
+98774,milk,4,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
+98775,oil,4,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
+98776,sugar,3,Delivered,Delivered Today,,,Cash/UPI on Delivery,918059580047,2025-09-13
+98777,rice,5,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
+98778,rice,9,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
+98779,oil,4,Delivered,Delivered Today,,,Cash/UPI on Delivery,919996033812,2025-09-13
